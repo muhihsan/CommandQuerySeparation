@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\MIhsan\\Documents\\Visual Studio 2017\\Projects\\CommandQuerySeparation\\CommandQuerySeparation\\CommandQuerySeparation.csproj",
+      "projectUniqueName": "C:\\Users\\MIhsan\\Documents\\GitHub\\CommandQuerySeparation\\src\\CommandQuerySeparation\\CommandQuerySeparation.csproj",
       "projectName": "CommandQuerySeparation",
-      "projectPath": "C:\\Users\\MIhsan\\Documents\\Visual Studio 2017\\Projects\\CommandQuerySeparation\\CommandQuerySeparation\\CommandQuerySeparation.csproj",
+      "projectPath": "C:\\Users\\MIhsan\\Documents\\GitHub\\CommandQuerySeparation\\src\\CommandQuerySeparation\\CommandQuerySeparation.csproj",
       "packagesPath": "C:\\Users\\MIhsan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MIhsan\\Documents\\Visual Studio 2017\\Projects\\CommandQuerySeparation\\CommandQuerySeparation\\obj\\",
+      "outputPath": "C:\\Users\\MIhsan\\Documents\\GitHub\\CommandQuerySeparation\\src\\CommandQuerySeparation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

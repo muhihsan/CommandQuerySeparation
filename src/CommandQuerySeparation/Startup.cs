@@ -23,7 +23,8 @@ namespace CommandQuerySeparation
         {
             services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddTransient<Db>();
-            services.AddScoped<IQueryHandler<FindUserByIdQuery, User>, FindUserByIdQueryHandler>();
+            //services.AddScoped<IQueryHandler<FindUserByIdQuery, User>, FindUserByIdQueryHandler>();
+            services.RegisterQueryDecorator<FindUserByIdQueryHandler, FindUserByIdQuery, User>();
             services.AddScoped<IQueryProcessor, QueryProcessor>();
             services.AddMvc();
         }

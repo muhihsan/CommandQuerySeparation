@@ -9,3 +9,14 @@ C:\Users\MIhsan\Documents\Visual Studio 2017\Projects\CommandQuerySeparation\Com
 C:\Users\MIhsan\Documents\Visual Studio 2017\Projects\CommandQuerySeparation\CommandQuerySeparation\bin\Debug\netcoreapp2.0\CommandQuerySeparation.pdb
 C:\Users\MIhsan\Documents\Visual Studio 2017\Projects\CommandQuerySeparation\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.dll
 C:\Users\MIhsan\Documents\Visual Studio 2017\Projects\CommandQuerySeparation\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.pdb
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\bin\Debug\netcoreapp2.0\CommandQuerySeparation.deps.json
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\bin\Debug\netcoreapp2.0\CommandQuerySeparation.runtimeconfig.json
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\bin\Debug\netcoreapp2.0\CommandQuerySeparation.runtimeconfig.dev.json
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\bin\Debug\netcoreapp2.0\CommandQuerySeparation.dll
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\bin\Debug\netcoreapp2.0\CommandQuerySeparation.pdb
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.csprojResolveAssemblyReference.cache
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.csproj.CoreCompileInputs.cache
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.AssemblyInfoInputs.cache
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.AssemblyInfo.cs
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.dll
+C:\Users\MIhsan\Documents\GitHub\CommandQuerySeparation\src\CommandQuerySeparation\obj\Debug\netcoreapp2.0\CommandQuerySeparation.pdb
